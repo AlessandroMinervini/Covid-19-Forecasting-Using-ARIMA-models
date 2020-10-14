@@ -1,1 +1,1 @@
-# Covid-19-Forecasting-Using-ARIMA-models
+# Covid-19 Forecasting Using ARIMA models
