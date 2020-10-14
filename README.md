@@ -19,3 +19,9 @@ predictions for the next 7 days.
 In the next days a webapp live-demo will be available to check the results.
 
 ## Results
+### New Positives
+![New Positives](https://github.com/AlessandroMinervini/Covid-19-Forecasting-Using-ARIMA-models/blob/main/plots/New%20Positives.png)
+### Total Positives
+![Total Positives](https://github.com/AlessandroMinervini/Covid-19-Forecasting-Using-ARIMA-models/blob/main/plots/Total%20Positives.png)
+### Intensive Care
+![Intensive Care](https://github.com/AlessandroMinervini/Covid-19-Forecasting-Using-ARIMA-models/blob/main/plots/Intensive%20Care.png)
