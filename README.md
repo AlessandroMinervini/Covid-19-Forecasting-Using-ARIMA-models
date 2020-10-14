@@ -8,7 +8,9 @@ New results are available from 18.00.
 - New positives
 - Total positivs
 - intensive care
-predictions for the next 7 days.
+- predictions
+
+for the next 7 days.
 
 ## Orders of ARIMA models
 - New positives: 3, 1, 0
