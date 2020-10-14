@@ -1,5 +1,7 @@
 # Covid-19 Forecasting Using ARIMA models
 Covid-19 short-term forecasting using ARIMA models.
+The data are provided by the Italian Civil Protection and can be consulted here: https://github.com/pcm-dpc/COVID-19.
+New results are available from 18.00.
 
 ## Goals
 - New positives
