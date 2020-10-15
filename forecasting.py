@@ -51,7 +51,8 @@ def plot_results(series, df_forecast, ci, label):
     ax.set_ylabel(label)
     ax.set_title(label + ' Forecasting')
     plt.legend()
-    plt.show()
+    plt.savefig('plots/' + label + '.png')
+    #plt.show()
 
 # Order for ARIMA model
 order = {
